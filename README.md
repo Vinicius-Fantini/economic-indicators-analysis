@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Indicadores Econômicos Globais – Análise Exploratória com Python
 
 Este projeto realiza uma análise exploratória de indicadores econômicos globais (PIB, inflação, taxa de juros, entre outros), utilizando dados extraídos do Kaggle. O objetivo é identificar padrões econômicos entre países e suas evoluções ao longo do tempo, com foco em países do Mercosul e nas maiores economias do mundo (EUA, China).
@@ -66,3 +67,7 @@ Este projeto realiza uma análise exploratória de indicadores econômicos globa
 Vinicius Fantini  
 Economista | Estudante de Data Science | Apaixonado por dados econômicos  
 [LinkedIn](https://www.linkedin.com/in/vinicius-fantini-cea-42101816a/) • [GitHub](https://github.com/Vinicius-Fantini)
+=======
+# economic-indicators-analysis
+Análise exploratória de indicadores macroeconômicos globais com Python e Power BI.
+>>>>>>> 870d8f1892604d86d1f0ce696af14fc28a95d0ae
