@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📊 Indicadores Econômicos Globais – Análise Exploratória com Python
 
 Este projeto realiza uma análise exploratória de indicadores econômicos globais (PIB, inflação, taxa de juros, entre outros), utilizando dados extraídos do Kaggle. O objetivo é identificar padrões econômicos entre países e suas evoluções ao longo do tempo, com foco em países do Mercosul e nas maiores economias do mundo (EUA, China).
