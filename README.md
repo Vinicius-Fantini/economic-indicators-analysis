@@ -44,14 +44,6 @@ Este projeto realiza uma análise exploratória de indicadores econômicos globa
 ### 📊 Taxa de Juros – EUA x China
 ![Juros EUA x China](imgs/juros_eua_china.png)
 
-## 🚀 Próximos Passos
-
-- Criar visualizações interativas com Power BI
-- Simular consultas com SQL para análise de subgrupos
-- Publicar no LinkedIn com insights obtidos
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - Python (Pandas, Seaborn, Matplotlib)
