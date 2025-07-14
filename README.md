@@ -48,7 +48,7 @@ Este projeto realiza uma análise exploratória de indicadores econômicos globa
 
 - Python (Pandas, Seaborn, Matplotlib)
 - Jupyter Notebook
-- Power BI (em breve)
+- Power BI 
 - Git e GitHub
 
 ---
