@@ -44,6 +44,18 @@ Este projeto realiza uma análise exploratória de indicadores econômicos globa
 ### 📊 Taxa de Juros – EUA x China
 ![Juros EUA x China](imgs/juros_eua_china.png)
 
+## 📊 Dashboards no Power BI
+
+Além da análise em Python, os seguintes gráficos foram desenvolvidos no Power BI para visualização interativa:
+
+| Gráfico | Visualização |
+|---------|--------------|
+| PIB do Brasil | ![PIB Brasil BI](power%20BI/PIB_Brasil_BI.png) |
+| Inflação – BRICS x EUA | ![Inflação BRICS BI](power%20BI/Inflacao_Brics_EUA_BI.png) |
+| PIB – EUA x China | ![PIB EUA x China BI](power%20BI/PIB_EUAxChina_BI.png) |
+| Inflação – EUA x China | ![Inflação EUA x China BI](power%20BI/Inflacao_EUAxChina_BI.png) |
+| Taxa de Juros – EUA x China | ![Juros EUA x China BI](power%20BI/Taxa_de_Juros_EUAxChina_BI.png) |
+
 ## 🛠️ Tecnologias Utilizadas
 
 - Python (Pandas, Seaborn, Matplotlib)
